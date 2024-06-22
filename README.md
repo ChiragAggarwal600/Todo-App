@@ -1,4 +1,4 @@
-# Todo-App
+# Todo-App (Made using React)
 # Check the Live version of the app here :- https://wonderful-florentine-3e6df1.netlify.app/
 
 This is a basic Todo-App built with HTML, CSS, and JavaScript. It allows users to manage todos by marking them as completed and viewing their titles and descriptions.
