@@ -1,14 +1,14 @@
-#Todo-App
-#Check the Live version of the app here :- https://wonderful-florentine-3e6df1.netlify.app/
+# Todo-App
+# Check the Live version of the app here :- https://wonderful-florentine-3e6df1.netlify.app/
 
 This is a basic Todo-App built with HTML, CSS, and JavaScript. It allows users to manage todos by marking them as completed and viewing their titles and descriptions.
 
 Features
-Add Todo: Users can add a new todo item with a title and description.
-Mark as Completed: Each todo item has a button to mark it as completed.
-View Title and Description: Users can see the title and description of each todo item.
-Demo
-You can try the app live here.
+- Add Todo: Users can add a new todo item with a title and description.
+- Mark as Completed: Each todo item has a button to mark it as completed.
+- View Title and Description: Users can see the title and description of each todo item.
+
+
 
 Installation
 Clone the repository:
